@@ -208,19 +208,7 @@ Project-4/
 README.md
 ```
 
-## 7. last but not least, the repository will be deployed with netlify
-
-1. open [netlify](https://www.netlify.com/)
-2. log in -> Log in with github
-3. Add new site -> import an existing project
-4. Lets deploy your proeject Github
-5. select your repository (module-4-esisram)
-6. just fill base directory with project-4
-7. click deploy module-4-esisram
-8. please wait until deploying process is done
-9. please open your website in this [link](https://helpful-cactus-297b57.netlify.app/)
-
-## 8 melanjutkan tugas final checkpoint
+## 7 melanjutkan tugas final checkpoint
 
 1. Install dependencies pada repo https://github.com/revou-fsse-5/module-4-server and https://github.com/revou-fsse-5/module-4-esisram.git setelah di clone
 
@@ -316,3 +304,15 @@ stelah klik add, maka akan menambah pada category list:
 data category name juga akan ada di Api localhost:8080.
 <img src="./images/ApiCategories.png" alt="add relative path to image" 
    width="5000" height='300'/>
+
+## 8. last but not least, the repository will be deployed with netlify
+
+1. open [netlify](https://www.netlify.com/)
+2. log in -> Log in with github
+3. Add new site -> import an existing project
+4. Lets deploy your proeject Github
+5. select your repository (module-4-esisram)
+6. just fill base directory with project-4
+7. click deploy module-4-esisram
+8. please wait until deploying process is done
+9. please open your website in this [link](https://jolly-kelpie-3b1ada.netlify.app/)
